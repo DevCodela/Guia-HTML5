@@ -1,0 +1,27 @@
+
+
+
+	                           DevCode.la
+
+   Tengan presente que a su reproductor multimedia de audio y/o video pueden
+   ponerle los estilos que vayan de acuerdo con su gusto y a su estetica.
+  
+   Para que la etiqueta audio y video pueda funcionar dentro de su navegador
+   debe de agregar su audio con extension .mp3 y video con .mp4 dependiendo
+   del sonido o video que a ud. mejor le agrade.
+
+
+
+
+   Nota: Recuerda que las etiquetas <audio> y <video> son compatible con:
+	 - Internet Explorer 9 + (Internet Explorer 8 y versiones anteriores,
+           no son compatibles con estas etiquetas)
+         - Firefox
+         - Opera
+         - Chrome
+         - Safari.
+
+
+         
+
+				    saludos!!!

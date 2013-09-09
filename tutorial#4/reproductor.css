@@ -1,0 +1,41 @@
+body{
+	text-align: center;
+}
+
+#reproductor{
+	width: 720px;
+	margin: 20px auto;
+	padding: 5px;
+	background: #999999;
+	border: 1px solid #666666;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius: 5px;
+}
+
+#botones{
+	float:left;
+	width: 100px;
+	height: 15px;
+}
+
+#barra{
+	position: relative;
+	float: left;
+	width: 600px;
+	height: 8px;
+	padding: 2px;
+	background: #EEEEEE;
+	border:1px solid #CCCCCC;
+}
+
+#progreso{
+	position: absolute;
+	width: 0px;
+	height: 8px;
+	background: rgba(0,0,255,.9);
+}
+
+#reproducir{
+	height: 20px;
+}
